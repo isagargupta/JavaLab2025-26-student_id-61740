@@ -1,0 +1,4 @@
+Hello World! This is a test file.
+It contains some text with spaces.
+Java IO is useful for file operations.
+
